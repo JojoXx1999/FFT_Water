@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Physical Water">
+      <UniqueIdentifier>{c6888849-6c74-4197-8e53-8051f9d69c5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physical Water">
+      <UniqueIdentifier>{4c40f9a5-12c6-4ed4-9ece-23e449e5335b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Aesthetics">
+      <UniqueIdentifier>{8b044bdf-3912-47da-8b7a-d991687b49ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Aesthetics">
+      <UniqueIdentifier>{853ddeb8-44f6-43bb-b724-1c3e279a4901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Aesthetics\Shaders">
+      <UniqueIdentifier>{3f5aab20-6981-4024-a12a-ef0a29be7f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Global Macros">
+      <UniqueIdentifier>{fdb8649d-d568-40ad-b70b-6679e1053493}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI_Handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TessellationPlaneMesh.cpp">
+      <Filter>Source Files\Physical Water</Filter>
+    </ClCompile>
+    <ClCompile Include="Light_Shader.cpp">
+      <Filter>Source Files\Aesthetics</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Source Files\Physical Water</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>Source Files\Physical Water</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main_App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Macros.h">
+      <Filter>Header Files\Global Macros</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI_Handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TessellationPlaneMesh.h">
+      <Filter>Header Files\Physical Water</Filter>
+    </ClInclude>
+    <ClInclude Include="Light_Shader.h">
+      <Filter>Header Files\Aesthetics</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Header Files\Physical Water</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>Header Files\Physical Water</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="shaders\light_ps.hlsl">
+      <Filter>Source Files\Aesthetics\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\light_vs.hlsl">
+      <Filter>Source Files\Aesthetics\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="light_hs.hlsl">
+      <Filter>Source Files\Aesthetics\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="light_ds.hlsl">
+      <Filter>Source Files\Aesthetics\Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

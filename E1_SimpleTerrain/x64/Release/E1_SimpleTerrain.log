@@ -1,0 +1,18 @@
+﻿C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(55,11-83): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(74,33-62): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(91,12-105): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(93,12-127): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(102,35-42): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(102,35-47): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(102,35-52): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(132,12-64): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(133,22-77): warning X3206: 'lerp': implicit truncation of vector type
+  compilation object save succeeded; see C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\x64\Release\light_ps.cso
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(143,12-51): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(146,16-114): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(152,12-52): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(153,17-126): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(164,19-48): warning X3206: implicit truncation of vector type
+C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\E1_SimpleTerrain\shaders\light_ps.hlsl(164,11-49): warning X3206: implicit truncation of vector type
+  
+  E1_SimpleTerrain.vcxproj -> C:\Users\jodie\Desktop\Honours\Honours Project\Honours_Duff_Jodie_1700547\Honours Prototype\x64\Release\E1_SimpleTerrain.exe
