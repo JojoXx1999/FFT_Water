@@ -18,3 +18,5 @@ up and down respectively.
 
 Going to Properties - Philips Spectrum will give you the tools to change the physics of the water
 simulation in real time. Color will allow you to change the colour and lighting.
+
+More information can be found here: http://www.jodieduff.co.uk/fft_water_simulation.html
